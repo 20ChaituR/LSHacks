@@ -19,6 +19,7 @@
 		CB8BDF7D1E470B3300E9197B /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB8BDF7C1E470B3300E9197B /* CameraViewController.m */; };
 		CB8BDF801E47132E00E9197B /* ImageRecognition.m in Sources */ = {isa = PBXBuildFile; fileRef = CB8BDF7F1E47132E00E9197B /* ImageRecognition.m */; };
 		CBC434341E47276F00FC52E9 /* AnswerSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = CBC434331E47276F00FC52E9 /* AnswerSheet.m */; };
+		CBC434371E472E9000FC52E9 /* PrintQuestions.m in Sources */ = {isa = PBXBuildFile; fileRef = CBC434361E472E9000FC52E9 /* PrintQuestions.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,8 @@
 		CB8BDF7F1E47132E00E9197B /* ImageRecognition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageRecognition.m; sourceTree = "<group>"; };
 		CBC434321E47276F00FC52E9 /* AnswerSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnswerSheet.h; sourceTree = "<group>"; };
 		CBC434331E47276F00FC52E9 /* AnswerSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnswerSheet.m; sourceTree = "<group>"; };
+		CBC434351E472E9000FC52E9 /* PrintQuestions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrintQuestions.h; sourceTree = "<group>"; };
+		CBC434361E472E9000FC52E9 /* PrintQuestions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrintQuestions.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +119,8 @@
 				CB8BDF461E47099700E9197B /* AppDelegate.m */,
 				CB8BDF7E1E47132E00E9197B /* ImageRecognition.h */,
 				CB8BDF7F1E47132E00E9197B /* ImageRecognition.m */,
+				CBC434351E472E9000FC52E9 /* PrintQuestions.h */,
+				CBC434361E472E9000FC52E9 /* PrintQuestions.m */,
 				CBC434321E47276F00FC52E9 /* AnswerSheet.h */,
 				CBC434331E47276F00FC52E9 /* AnswerSheet.m */,
 				CB8BDF7B1E470B3300E9197B /* CameraViewController.h */,
@@ -295,6 +300,7 @@
 				CB8BDF7D1E470B3300E9197B /* CameraViewController.m in Sources */,
 				CB8BDF801E47132E00E9197B /* ImageRecognition.m in Sources */,
 				CB8BDF501E47099700E9197B /* Problem_Session.xcdatamodeld in Sources */,
+				CBC434371E472E9000FC52E9 /* PrintQuestions.m in Sources */,
 				CB8BDF4A1E47099700E9197B /* ViewController.m in Sources */,
 				CB8BDF471E47099700E9197B /* AppDelegate.m in Sources */,
 				CBC434341E47276F00FC52E9 /* AnswerSheet.m in Sources */,

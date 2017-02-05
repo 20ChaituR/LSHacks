@@ -24,6 +24,7 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RiG-Yn-cqT">
                                 <rect key="frame" x="160" y="231" width="54" height="30"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Algebra"/>
                                 <connections>
                                     <segue destination="LuR-Q7-ezh" kind="show" id="dcI-dX-wDi"/>
@@ -203,7 +204,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="lZq-0o-hNz"/>
-        <segue reference="pc9-2G-5bw"/>
+        <segue reference="VSe-Gj-8it"/>
+        <segue reference="ztZ-DO-G1g"/>
     </inferredMetricsTieBreakers>
 </document>
