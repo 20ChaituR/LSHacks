@@ -4,12 +4,13 @@
 
 import random
 import math
-
+#This class is the basic foundation class for creating random problems for our algebra question sheet as well as thier solutions
 class answerSheet(object):
 
     def __init__(self):
         self.file = "/Users/cravuri/Documents/harker/LSHacks/src/webCrawler/AMC.in"
-
+#This function generates a quadratic function and it solutions and returns an array with 3 elements
+#The first element is a random quadratic function and the last 2 elements are the 2 solutions (null if only one or 0)
     def generateQuad(self):
         [a, b, c] = [random.randint(1, 3), random.randint(1, 20), random.randint(1, 20)]
         temp = []
@@ -26,6 +27,8 @@ class answerSheet(object):
                 temp.append(str(answer2))
         return temp
 
+    #The generate linear function returns an array of 2 elements.
+    #The first element is a random linear equation and the second element is the solution.  
     def generateLinear(self):
         [a, b, c] = [random.randint(1, 25), random.randint(1, 25), random.randint(1, 25)]
         temp = []
@@ -36,7 +39,7 @@ class answerSheet(object):
         t = (c-b)/a
         temp.append(str(t))
         return temp
-
+#This function calculates the determinant of a matrix. This is to work with Cramer's rule to solve systems of equations.
     def determinant(self, result, rows, cols):
         if rows == 2:
             return result[0][0] * result[1][1] - result[0][1] * result[1][0]
@@ -51,7 +54,9 @@ class answerSheet(object):
             determinant1 += temp
             determinant2 += temp2
         return determinant1 - determinant2
-
+#This chooses either 2 or 3 equation systems randomly. 
+#It has 2/3 unknowns based on the number of equations
+#It returns array with the equationa and then the answers for the n unknowns
     def generateSystem(self):
         number = random.randint(2, 3)
         if number == 2:
