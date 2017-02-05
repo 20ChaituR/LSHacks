@@ -1,7 +1,5 @@
-"""OCR in Python using the Tesseract engine from Google
-http://code.google.com/p/pytesser/
-by Michael J.T. O'Kelly
-V 0.0.1, 3/10/07"""
+"""OCR in Python using the Tesseract engine
+by Arnav Joshi and Chaitanya Ravuri"""
 
 import Image
 import subprocess
@@ -24,7 +22,7 @@ def call_tesseract(input_filename, output_filename):
     if retcode != 0:
         errors.check_for_errors()
 
-
+#This function converts and image of a number to a string with a high accuracy
 def image_to_string(im, cleanup=cleanup_scratch_flag):
     """Converts im to file, applies tesseract, and fetches resulting text.
     If cleanup=True, delete scratch files after operation."""
