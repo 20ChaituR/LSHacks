@@ -1,7 +1,7 @@
 import objc
 from Foundation import NSObject
 from main import answerSheet
-
+#this class finally prints the sheet with questions, space for work and space for answers
 class PyAnswerSheet(NSObject):
 
     def init(self):
