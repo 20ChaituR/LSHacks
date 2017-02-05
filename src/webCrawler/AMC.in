@@ -69,6 +69,34 @@ A right circular cylinder with its diameter equal to its height is inscribed in 
 A box contains exactly five chips, three red and two white. Chips are randomly removed one at a time without replacement until all the red chips are drawn or all the white chips are drawn. What is the probability that the last chip drawn is white?
 3/5
 How many positive integers not exceeding 2001 are multiples of 3 or 4 but not 5?
+801
+The sum of three numbers is 20. The first is four times the sum of the other two. The second is seven times the third. What is the product of all three?
+28
+Let n be the largest integer that is the product of exactly 3 distinct prime numbers d, e, and 10d+e, where d and e are single digits. What is the sum of the digits of n?
+12
+What is the probability that an integer in the set {1,2,3,...,100} is divisible by 2 and not divisible by 3?
+17/50
+What is the units digit of 13^2003?
+7
+The number of inches in the perimeter of an equilateral triangle equals the number of square inches in the area of its circumscribed circle. What is the radius, in inches, of the circle?
+3 * sqrt(3)/pi
+What is the probability that a randomly drawn positive factor of 60 is less than 7?
+1/2
+Members of the Rockham Soccer League buy socks and T-shirts. Socks cost $4 per pair and each T-shirt costs $5 more than a pair of socks. Each member needs one pair of socks and a shirt for home games and another pair of socks and a shirt for away games. If the total cost is $2366, how many members are in the League?
+91
+Al gets the disease algebritis and must take one green pill and one pink pill each day for two weeks. A green pill costs $1 more than a pink pill, and Al's pills cost a total of $546 for the two weeks. How much does one green pill cost?
+$20
+The sum of 5 consecutive even integers is 4 less than the sum of the first 8 consecutive odd counting numbers. What is the smallest of the even integers?
+8
+The second and fourth terms of a geometric sequence are 2 and 6. Which of the following is a possible first term?
+-2 * sqrt(3)/3
+Nebraska, the home of the AMC, changed its license plate scheme. Each old license plate consisted of a letter followed by four digits. Each new license plate consists of the three letters followed by three digits. By how many times is the number of possible license plates increased?
+(26^2)/10
+A line with slope 3 intersects a line with slope 5 at point  (10,15). What is the distance between the x-intercepts of these two lines?
+2
+Al, Betty, and Clare split $1000 among them to be invested in different ways. Each begins with a different amount. At the end of one year, they have a total of $1500. Betty and Clare have both doubled their money, whereas Al has managed to lose $100. What was Al's original portion?
+$400
+
 
 
 
