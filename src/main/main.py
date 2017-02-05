@@ -1,5 +1,8 @@
 import urllib
 import random
+import pytesseract
+from PIL import Image
+from PIL import ImageFilter
 
 def getProb(url):
     page = urllib.urlopen(url).read()
@@ -56,5 +59,11 @@ def getRandomProb():
     print url
     print amc[0]
     print amc[1]
+
+def getText(img):
+    image = Image.open(img)
+    image.filter(ImageFilter.SHARPEN)
+    text = pytesseract.image_to_string(image)
+    return text
 
 getRandomProb()
