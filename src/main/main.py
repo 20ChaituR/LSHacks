@@ -22,10 +22,13 @@ def generateQuad():
     return temp
 
 def generateLinear():
-    [a, b] = [random.randint(1, 25), random.randint(1, 25)]
+    [a, b, c] = [random.randint(1, 25), random.randint(1, 25), random.randint(1, 25)]
     temp = []
-    temp.append(str(a) + "x + " + str(b))
-    t = -b/a
+    temp.append(str(a) + "x + " + str(b) + " = " + str(c))
+    a *= 1.0
+    b *= 1.0
+    c *= 1.0
+    t = (c-b)/a
     temp.append(str(t))
     return temp
 

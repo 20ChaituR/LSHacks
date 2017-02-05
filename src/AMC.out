@@ -1,7 +1,5 @@
-Problem 1. Solve the following system of equations for x, y, and z: 
-25x + 7y + 18z = 10 
-16x + 10y + 11z = 8 
-18x + 3y + 9z = 17 
+Problem 1. Solve the following equation for x: 
+16x + 6 = 9 
 
 
 
@@ -14,7 +12,7 @@ Problem 1. Solve the following system of equations for x, y, and z:
 Answer: 
 
 Problem 2. Solve the following equation for x: 
-9x + 6 
+12x + 22 = 10 
 
 
 
@@ -27,7 +25,7 @@ Problem 2. Solve the following equation for x:
 Answer: 
 
 Problem 3. Solve the following quadratic equation for x: 
-1x^2 + 3x + 19 
+3x^2 + 17x + 13 
 
 
 
@@ -39,8 +37,10 @@ Problem 3. Solve the following quadratic equation for x:
 
 Answer: 
 
-Problem 4. Solve the following equation for x: 
-14x + 6 
+Problem 4. Solve the following system of equations for x, y, and z: 
+25x + 19y + 9z = 3 
+7x + 9y + 16z = 13 
+7x + 2y + 5z = 5 
 
 
 
@@ -52,8 +52,8 @@ Problem 4. Solve the following equation for x:
 
 Answer: 
 
-Problem 5. Solve the following quadratic equation for x: 
-3x^2 + 16x + 4 
+Problem 5. Solve the following equation for x: 
+12x + 13 = 21 
 
 
 
@@ -65,8 +65,8 @@ Problem 5. Solve the following quadratic equation for x:
 
 Answer: 
 
-Problem 6. Solve the following quadratic equation for x: 
-1x^2 + 7x + 1 
+Problem 6. Solve the following equation for x: 
+19x + 2 = 19 
 
 
 
@@ -78,9 +78,8 @@ Problem 6. Solve the following quadratic equation for x:
 
 Answer: 
 
-Problem 7. Solve the following system of equations for x and y: 
-23x + 11y = 5 
-18x + 10y = 7 
+Problem 7. Solve the following quadratic equation for x: 
+2x^2 + 16x + 9 
 
 
 
@@ -92,8 +91,8 @@ Problem 7. Solve the following system of equations for x and y:
 
 Answer: 
 
-Problem 8. Solve the following equation for x: 
-23x + 8 
+Problem 8. Solve the following quadratic equation for x: 
+1x^2 + 18x + 14 
 
 
 
@@ -106,7 +105,7 @@ Problem 8. Solve the following equation for x:
 Answer: 
 
 Problem 9. Solve the following quadratic equation for x: 
-1x^2 + 9x + 17 
+2x^2 + 15x + 9 
 
 
 
@@ -118,8 +117,10 @@ Problem 9. Solve the following quadratic equation for x:
 
 Answer: 
 
-Problem 10. Solve the following quadratic equation for x: 
-2x^2 + 13x + 3 
+Problem 10. Solve the following system of equations for x, y, and z: 
+15x + 25y + 5z = 22 
+23x + 8y + 23z = 18 
+15x + 2y + 4z = 7 
 
 
 
@@ -131,8 +132,9 @@ Problem 10. Solve the following quadratic equation for x:
 
 Answer: 
 
-Problem 11. Solve the following equation for x: 
-19x + 8 
+Problem 11. Solve the following system of equations for x and y: 
+5x + 19y = 5 
+8x + 7y = 22 
 
 
 
@@ -144,8 +146,8 @@ Problem 11. Solve the following equation for x:
 
 Answer: 
 
-Problem 12. Solve the following equation for x: 
-8x + 22 
+Problem 12. Solve the following quadratic equation for x: 
+3x^2 + 20x + 11 
 
 
 
@@ -157,8 +159,9 @@ Problem 12. Solve the following equation for x:
 
 Answer: 
 
-Problem 13. Solve the following equation for x: 
-10x + 6 
+Problem 13. Solve the following system of equations for x and y: 
+4x + 19y = 20 
+18x + 13y = 21 
 
 
 
@@ -171,7 +174,7 @@ Problem 13. Solve the following equation for x:
 Answer: 
 
 Problem 14. Solve the following quadratic equation for x: 
-3x^2 + 8x + 5 
+1x^2 + 14x + 18 
 
 
 
@@ -183,8 +186,10 @@ Problem 14. Solve the following quadratic equation for x:
 
 Answer: 
 
-Problem 15. Solve the following quadratic equation for x: 
-2x^2 + 11x + 20 
+Problem 15. Solve the following system of equations for x, y, and z: 
+6x + 18y + 3z = 18 
+11x + 7y + 21z = 18 
+18x + 9y + 19z = 17 
 
 
 
