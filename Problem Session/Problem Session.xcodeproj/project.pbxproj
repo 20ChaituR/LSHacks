@@ -20,6 +20,10 @@
 		CB8BDF801E47132E00E9197B /* ImageRecognition.m in Sources */ = {isa = PBXBuildFile; fileRef = CB8BDF7F1E47132E00E9197B /* ImageRecognition.m */; };
 		CBC434341E47276F00FC52E9 /* AnswerSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = CBC434331E47276F00FC52E9 /* AnswerSheet.m */; };
 		CBC434371E472E9000FC52E9 /* PrintQuestions.m in Sources */ = {isa = PBXBuildFile; fileRef = CBC434361E472E9000FC52E9 /* PrintQuestions.m */; };
+		CBC4343D1E47500500FC52E9 /* PDFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBC4343C1E47500500FC52E9 /* PDFViewController.m */; };
+		CBC4343F1E4753B500FC52E9 /* AMC.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CBC4343E1E4753B500FC52E9 /* AMC.pdf */; };
+		CBC434411E47546900FC52E9 /* File in Resources */ = {isa = PBXBuildFile; fileRef = CBC434401E47546900FC52E9 /* File */; };
+		CBC434441E47562A00FC52E9 /* AnswerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBC434431E47562A00FC52E9 /* AnswerViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +69,12 @@
 		CBC434331E47276F00FC52E9 /* AnswerSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnswerSheet.m; sourceTree = "<group>"; };
 		CBC434351E472E9000FC52E9 /* PrintQuestions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrintQuestions.h; sourceTree = "<group>"; };
 		CBC434361E472E9000FC52E9 /* PrintQuestions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrintQuestions.m; sourceTree = "<group>"; };
+		CBC4343B1E47500500FC52E9 /* PDFViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PDFViewController.h; path = ../PDFViewController.h; sourceTree = "<group>"; };
+		CBC4343C1E47500500FC52E9 /* PDFViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PDFViewController.m; path = ../PDFViewController.m; sourceTree = "<group>"; };
+		CBC4343E1E4753B500FC52E9 /* AMC.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = AMC.pdf; sourceTree = "<group>"; };
+		CBC434401E47546900FC52E9 /* File */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = File; sourceTree = "<group>"; };
+		CBC434421E47562A00FC52E9 /* AnswerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnswerViewController.h; sourceTree = "<group>"; };
+		CBC434431E47562A00FC52E9 /* AnswerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnswerViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +135,12 @@
 				CBC434331E47276F00FC52E9 /* AnswerSheet.m */,
 				CB8BDF7B1E470B3300E9197B /* CameraViewController.h */,
 				CB8BDF7C1E470B3300E9197B /* CameraViewController.m */,
+				CBC4343B1E47500500FC52E9 /* PDFViewController.h */,
+				CBC4343C1E47500500FC52E9 /* PDFViewController.m */,
+				CBC434421E47562A00FC52E9 /* AnswerViewController.h */,
+				CBC434431E47562A00FC52E9 /* AnswerViewController.m */,
+				CBC4343E1E4753B500FC52E9 /* AMC.pdf */,
+				CBC434401E47546900FC52E9 /* File */,
 				CB8BDF481E47099700E9197B /* ViewController.h */,
 				CB8BDF491E47099700E9197B /* ViewController.m */,
 				CB8BDF4B1E47099700E9197B /* Main.storyboard */,
@@ -270,9 +286,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CBC4343F1E4753B500FC52E9 /* AMC.pdf in Resources */,
 				CB8BDF551E47099700E9197B /* LaunchScreen.storyboard in Resources */,
 				CB8BDF521E47099700E9197B /* Assets.xcassets in Resources */,
 				CB8BDF4D1E47099700E9197B /* Main.storyboard in Resources */,
+				CBC434411E47546900FC52E9 /* File in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,7 +319,9 @@
 				CB8BDF801E47132E00E9197B /* ImageRecognition.m in Sources */,
 				CB8BDF501E47099700E9197B /* Problem_Session.xcdatamodeld in Sources */,
 				CBC434371E472E9000FC52E9 /* PrintQuestions.m in Sources */,
+				CBC4343D1E47500500FC52E9 /* PDFViewController.m in Sources */,
 				CB8BDF4A1E47099700E9197B /* ViewController.m in Sources */,
+				CBC434441E47562A00FC52E9 /* AnswerViewController.m in Sources */,
 				CB8BDF471E47099700E9197B /* AppDelegate.m in Sources */,
 				CBC434341E47276F00FC52E9 /* AnswerSheet.m in Sources */,
 				CB8BDF441E47099700E9197B /* main.m in Sources */,

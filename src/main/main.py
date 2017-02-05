@@ -8,7 +8,7 @@ import math
 class answerSheet(object):
 
     def __init__(self):
-        self.file = "/Users/cravuri/Documents/harker/LSHacks/src/webCrawler/AMC.in"
+        self.file = "/Users/cravuri/Documents/harker/LSHacks/src/generateProb/AMC.in"
 #This function generates a quadratic function and it solutions and returns an array with 3 elements
 #The first element is a random quadratic function and the last 2 elements are the 2 solutions (null if only one or 0)
     def generateQuad(self):

@@ -36,7 +36,7 @@ def getAns(url):
     return(answer)
 
 def getRandomProblem():
-    amc = "/Users/cravuri/Documents/harker/LSHacks/src/webCrawler/AMC.in"
+    amc = "/Users/cravuri/Documents/harker/LSHacks/src/generateProb/AMC.in"
     f = open(amc, 'r')
     lines = f.read().split('\n')
     probnum = random.randint(0, len(lines) / 2 - 1)
