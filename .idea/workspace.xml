@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8514cbad-8e9c-4886-a5e6-7acaff0f588b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/webCrawler/problemFinder.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/webCrawler/AMCProblems.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/LSHacks.iml" afterPath="$PROJECT_DIR$/.idea/LSHacks.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/main.py" afterPath="$PROJECT_DIR$/src/main/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/notebook/.ipynb_checkpoints/Hack1-checkpoint.ipynb" afterPath="$PROJECT_DIR$/src/notebook/.ipynb_checkpoints/Hack1-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/notebook/Hack1.ipynb" afterPath="$PROJECT_DIR$/src/notebook/Hack1.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/notebook/output.png" afterPath="$PROJECT_DIR$/src/notebook/output.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/notebook/test.png" afterPath="$PROJECT_DIR$/src/notebook/test.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/notebook/.ipynb_checkpoints/Find Text-checkpoint.ipynb" afterPath="$PROJECT_DIR$/src/notebook/.ipynb_checkpoints/Find Text-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/notebook/Find Text.ipynb" afterPath="$PROJECT_DIR$/src/notebook/Find Text.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+              <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -43,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/webCrawler/problemFinder.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -523,7 +519,7 @@
     <entry file="file://$PROJECT_DIR$/src/webCrawler/problemFinder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -531,7 +527,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
