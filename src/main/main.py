@@ -136,6 +136,20 @@ class answerSheet(object):
         text = pytesseract.image_to_string(image)
         return text
 
+    def printBeg(self):
+        out = open("/Users/cravuri/Documents/harker/LSHacks/src/AMC.out", "w")
+        out.write("Name:")
+        for _ in range(18):
+            out.write(" ")
+        out.write("Date:")
+        for _ in range(18):
+            out.write(" ")
+        out.write("Class:")
+        for _ in range(18):
+            out.write(" ")
+        for _ in range(5):
+            out.write("\n")
+
     answerKey = []
 
     def normalize(self, prob):
@@ -152,6 +166,17 @@ class answerSheet(object):
 
     def printCompetitionProblemSheet(self):
         out = open("/Users/cravuri/Documents/harker/LSHacks/src/AMC.out", "w")
+        out.write("Name:")
+        for _ in range(18):
+            out.write(" ")
+        out.write("Date:")
+        for _ in range(18):
+            out.write(" ")
+        out.write("Class:")
+        for _ in range(18):
+            out.write(" ")
+        for _ in range(5):
+            out.write("\n")
         for i in range(1, 26):
             prob = self.getRandomProblem()
             out.write("Problem " + str(i) + ". " + self.normalize(prob[0]))
@@ -162,6 +187,17 @@ class answerSheet(object):
 
     def printAlg1ProblemSheet(self):
         out = open("/Users/cravuri/Documents/harker/LSHacks/src/AMC.out", "w")
+        out.write("Name:")
+        for _ in range(18):
+            out.write(" ")
+        out.write("Date:")
+        for _ in range(18):
+            out.write(" ")
+        out.write("Class:")
+        for _ in range(18):
+            out.write(" ")
+        for _ in range(5):
+            out.write("\n")
         for i in range(1, 16):
             prob = self.generateRandomProblem()
             type = prob[len(prob) - 1]
@@ -196,4 +232,5 @@ class answerSheet(object):
                     self.answerKey.append(str(prob[3]) + ", " + str(prob[4]) + ", " + str(prob[5]))
 
 x = answerSheet()
+# x.printBeg()
 x.printAlg1ProblemSheet()

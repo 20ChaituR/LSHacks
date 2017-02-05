@@ -81,6 +81,9 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fyj-lT-tcS">
                                 <rect key="frame" x="171" y="318" width="33" height="30"/>
                                 <state key="normal" title="Print"/>
+                                <connections>
+                                    <segue destination="1zX-OT-zaL" kind="show" id="5q3-5G-TNN"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yxi-kL-VHG">
                                 <rect key="frame" x="125" y="629" width="125" height="30"/>
@@ -178,6 +181,9 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SGT-lM-3cU">
                                 <rect key="frame" x="171" y="318" width="33" height="30"/>
                                 <state key="normal" title="Print"/>
+                                <connections>
+                                    <segue destination="1zX-OT-zaL" kind="show" id="0C9-Ph-dma"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mJ3-B5-Xff">
                                 <rect key="frame" x="125" y="629" width="125" height="30"/>
@@ -202,9 +208,18 @@
             </objects>
             <point key="canvasLocation" x="826" y="686"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="Efk-zS-Sqw">
+            <objects>
+                <viewController id="1zX-OT-zaL" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="z4A-CI-b4r" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1644" y="728"/>
+        </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="VSe-Gj-8it"/>
-        <segue reference="ztZ-DO-G1g"/>
+        <segue reference="lZq-0o-hNz"/>
+        <segue reference="pc9-2G-5bw"/>
+        <segue reference="0C9-Ph-dma"/>
     </inferredMetricsTieBreakers>
 </document>

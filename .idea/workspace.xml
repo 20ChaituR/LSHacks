@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8514cbad-8e9c-4886-a5e6-7acaff0f588b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Problem Session/Problem Session/PrintQuestions.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Problem Session/Problem Session/PrintQuestions.m" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Problem Session/Problem Session.xcodeproj/project.xcworkspace/xcuserdata/cravuri.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/Problem Session/Problem Session.xcodeproj/project.xcworkspace/xcuserdata/cravuri.xcuserdatad/UserInterfaceState.xcuserstate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Problem Session/Problem Session.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Problem Session/Problem Session.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Problem Session/Problem Session.xcodeproj/xcuserdata/cravuri.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="$PROJECT_DIR$/Problem Session/Problem Session.xcodeproj/xcuserdata/cravuri.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Problem Session/Problem Session/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/Problem Session/Problem Session/Base.lproj/Main.storyboard" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Problem Session/Problem Session/ImageRecognition.m" afterPath="$PROJECT_DIR$/Problem Session/Problem Session/ImageRecognition.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AMC.out" afterPath="$PROJECT_DIR$/src/AMC.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/main.py" afterPath="$PROJECT_DIR$/src/main/main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state relative-caret-position="1333">
+              <caret line="219" column="17" lean-forward="true" selection-start-line="219" selection-start-column="17" selection-end-line="219" selection-end-column="17" />
               <folding>
                 <element signature="e#76#89#0" expanded="true" />
               </folding>
@@ -61,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AMC.out" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AMC.out" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AMC.out">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,11 +139,11 @@
         <option value="$PROJECT_DIR$/src/embed.py.html" />
         <option value="$PROJECT_DIR$/src/embed.html" />
         <option value="$PROJECT_DIR$/src/webCrawler/AlgProb.java" />
-        <option value="$PROJECT_DIR$/src/AMC.out" />
         <option value="$PROJECT_DIR$/src/webCrawler/AlgebraGenerator.py" />
         <option value="$PROJECT_DIR$/src/webCrawler/AMC.in" />
         <option value="$PROJECT_DIR$/src/main/sample.py" />
         <option value="$PROJECT_DIR$/src/main/cInterface.py" />
+        <option value="$PROJECT_DIR$/src/AMC.out" />
         <option value="$PROJECT_DIR$/src/main/main.py" />
       </list>
     </option>
@@ -786,22 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AMC.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/cInterface.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -814,11 +795,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="1333">
+          <caret line="219" column="17" lean-forward="true" selection-start-line="219" selection-start-column="17" selection-end-line="219" selection-end-column="17" />
           <folding>
             <element signature="e#76#89#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AMC.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
